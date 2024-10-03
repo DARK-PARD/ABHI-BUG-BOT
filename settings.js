@@ -8,9 +8,9 @@ global.ytname = "YT: Comedy Melody CH"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Kerala, Idukki"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
-global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '263789432940'  //creator number
+global.ownername = 'MAGICAL-KX' //owner name
+global.botname = 'ROACH-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
 global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
@@ -40,7 +40,7 @@ global.autoread_status = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v3'
 
 //reply messages
 global.mess = {
